@@ -27,6 +27,8 @@
 12. `git reset HEAD <nome_do_arquivo>`: Remove o arquivo especificado da área de stage do Git.
 
 13. Para sair de um erro ':' aperte q ou q + Enter, tambem funciona ": + x" e Enter para sair.
+![erro git](erro_git.jpg)
+
 
 14. `git revert <número_do_commit>`: Reverte as alterações feitas no commit especificado.
 
