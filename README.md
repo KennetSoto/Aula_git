@@ -37,7 +37,7 @@
 17. `git tag -a <versão> -m <mensagem>`: Cria uma tag para a versão especificada com uma mensagem descritiva.
 
 18. `git tag -a v0.1 -m "versão"`: Exemplo de criação de tag para a versão 0.1.
-     A tag serve para disponibilizar todo o código para ser baixado, zipado ou tar.gz.
+     Tags são usadas para marcar pontos específicos na história do repositório e torná-los facilmente acessíveis. Quando você envia uma tag, está disponibilizando uma versão específica do código para ser baixada e usada por outros., zipado ou tar.gz.
 
 19. `git push -u origin <versão>`: Empurra a tag para o repositório remoto.
 
